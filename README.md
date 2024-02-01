@@ -2,6 +2,8 @@
 This project contains a simple stock control program that allows you to add products, update their stock status, and check the current stock level.
 
 <h3>Features</h3>
--Add, update, and delete products.<br>
--Stock status monitoring.<br>
--Filtering by name, quantity, and price.<br>
+<ul>
+  <li>Add, update, and delete products.</li>
+  <li>Stock status monitoring.</li>
+  <li>Filtering by name, quantity, and price.</li>
+</ul>
