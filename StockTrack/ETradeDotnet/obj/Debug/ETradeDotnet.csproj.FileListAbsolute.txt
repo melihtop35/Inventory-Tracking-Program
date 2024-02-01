@@ -1,0 +1,15 @@
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\ETradeDotnet.exe.config
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\ETradeDotnet.exe
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\ETradeDotnet.pdb
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\EntityFramework.dll
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\EntityFramework.xml
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.csproj.AssemblyReference.cache
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.Form1.resources
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.Properties.Resources.resources
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.csproj.GenerateResource.cache
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.csproj.CoreCompileInputs.cache
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.csproj.CopyComplete
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.exe
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\ETradeDotnet\obj\Debug\ETradeDotnet.pdb

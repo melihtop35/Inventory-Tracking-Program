@@ -1,0 +1,12 @@
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ETrade.mdf
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ETrade_log.ldf
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\melih\OneDrive\Belgeler\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
