@@ -10,7 +10,7 @@ namespace WindowsFormsApp1
 {
     public class ProductDal
     {
-        SqlConnection _connection = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\melih\\OneDrive\\Belgeler\\Visual Studio 2022\\Code Snippets\\Visual C#\\My Code Snippets\\WindowsFormsApp1\\WindowsFormsApp1\\ETrade.mdf\";Integrated Security=True;Connect Timeout=30");
+        SqlConnection _connection = new SqlConnection("Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename="";Integrated Security=True;Connect Timeout=30");
 
         public List<Product> GetAll()
         {
